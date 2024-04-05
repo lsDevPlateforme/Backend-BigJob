@@ -33,7 +33,7 @@ Avant de démarrer, assurez-vous d'avoir Node.js installé sur votre machine. Vo
    Ou avec Yarn :
 
    ```bash
-   yarn db
+   yarn initdb
    ```
 
    Ceci créera la base de données SQLite et initialisera les tables nécessaires pour le projet et créera un admin avec comme email: admin@laplateforme.io et le password: root.
