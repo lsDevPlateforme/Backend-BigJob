@@ -8,11 +8,6 @@ Avant de démarrer, assurez-vous d'avoir Node.js installé sur votre machine. Vo
 
 1. **Cloner le dépôt**
 
-   ```bash
-   git clone https://github.com/votre-username/votre-projet.git
-   cd votre-projet
-   ```
-
 2. **Installer les dépendances**
 
    Avec NPM :
